@@ -7,5 +7,4 @@ int main() {
 	printf("4. Hello World in Rishikesh in devel branch!!\n");
 	printf("5. Hello World in Rishikesh in devel branch!!\n");
 	printf("6. Hello World in Rishikesh in devel branch!!\n");
-	printf("7. Hello World in Rishikesh in devel branch!!\n");
 }
